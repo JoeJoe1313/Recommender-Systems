@@ -1,2 +1,2 @@
 # Recommender-Systems
-Learning materials for the FMI coure
+Learning materials for the FMI course
